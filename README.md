@@ -15,12 +15,10 @@ I'm a Planning Solutions intern at **IBM**, currently studying **Systems Analysi
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4A90E2?style=for-the-badge&logo=powerbi&logoColor=white)
+
 ---
 
 ## 📫 Contact  
 💼 **LinkedIn:** [Henrique Hatano](https://www.linkedin.com/in/henrique-koiti-souza-hatano-3962251a5/)
 📧 **Email:** henri.koiti2002@gmail.com
 
----
-
-### ✨ Thanks for visiting my profile! Feel free to explore my projects. 😄
