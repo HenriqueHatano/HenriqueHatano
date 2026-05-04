@@ -1,5 +1,5 @@
 # 👋 Henrique Hatano  
-**`Planning Analytics Developer | Software & Data Engineering Enthusiast`**
+**`Planning Analytics Developer | Software Developer & Data Engineering`**
 
 I'm a developer currently working at IBM with a strong focus on **Planning Analytics, financial data flows, and enterprise solutions**.  
 My daily work involves building and maintaining solutions around **TM1 / Planning Analytics**, automating financial processes, and contributing to data-driven systems used in large-scale corporate environments.
