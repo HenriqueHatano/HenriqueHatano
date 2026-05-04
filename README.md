@@ -1,74 +1,110 @@
-# 👋 Hey, I'm Henrique  
+# 👋 Henrique Hatano  
+**`Planning Analytics Developer | Software & Data Engineering Enthusiast`**
 
-💼 Planning Solutions Intern at IBM  
-🎓 Systems Analysis and Development Student  
-🚀 Future Software & Data Engineer  
+I'm a developer currently working at IBM with a strong focus on **Planning Analytics, financial data flows, and enterprise solutions**.  
+My daily work involves building and maintaining solutions around **TM1 / Planning Analytics**, automating financial processes, and contributing to data-driven systems used in large-scale corporate environments.
 
----
+I’m developing my career at the intersection of:
 
-I’m someone who enjoys **building things that actually work in real life** — not just theory.  
-At IBM, I work directly with **financial data, automations, and planning systems**, helping transform complex data into something useful for decision-making.
+- Software Engineering
+- Data Engineering
+- Business Intelligence
+- AI & Machine Learning Engineering
 
-I didn’t learn everything in a traditional way — I had to **adapt fast, learn fast, and improve every day**, especially working in English with global teams.
-
----
-
-## ⚙️ What I Actually Do  
-
-- Build **automations and scripts** to optimize financial processes  
-- Work with **data transformation and modeling**  
-- Develop solutions using **Planning Analytics (TM1)**  
-- Handle **large datasets and business logic**  
-- Support **decision-making through data**  
+Currently, I work on projects related to **financial acquisition data pipelines**, helping transform and orchestrate enterprise financial data using modern engineering practices.
 
 ---
 
-## 🧠 What I'm Focused On Now  
+## 🚀 About Me
 
-Right now, I’m leveling up in:
-
-- 📊 Data Engineering (pipelines, ETL, orchestration)  
-- 🧩 Software Engineering fundamentals (clean code, architecture)  
-- 🤖 Using AI to improve development speed and quality  
-- 💬 Communication in English (real-world, not textbook)  
-
----
-
-## 🛠️ Tech I Use  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 📊 Data & Analytics  
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4A90E2?style=for-the-badge&logo=powerbi&logoColor=white)
-
-### 🏢 Enterprise & Planning  
-![TM1](https://img.shields.io/badge/TM1-0A74DA?style=for-the-badge&logo=ibm&logoColor=white)
-![Planning Analytics](https://img.shields.io/badge/Planning%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+- 💼 Working with enterprise financial planning solutions at IBM
+- 🧠 Learning and applying concepts from:
+  - Software Engineering
+  - Data Engineering
+  - Machine Learning
+  - Generative AI
+- 📊 Experience with financial data transformation and business workflows
+- ⚙️ Building pipelines, DAGs, automations, and backend integrations
+- 🌎 Passionate about technology, AI, data, and scalable systems
+- 🎯 Long-term goal: transition into **ML Engineering** and work with intelligent financial systems and data products
 
 ---
 
-## 🎯 Where I'm Going  
+## 🛠 Core Tech Stack
 
-I’m working towards becoming a **Software Engineer / Data Engineer**, someone who can:
+### Languages & Data
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 
-- Build scalable systems  
-- Work deeply with data  
-- Solve real business problems (especially in finance)  
+### Data Engineering & Analytics
+![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+
+### Planning & Enterprise Solutions
+![IBM](https://img.shields.io/badge/-IBM%20Planning%20Analytics-000?&logo=ibm)
+
+### Software Engineering
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
 ---
 
-## 📫 Let’s Connect  
+## 📌 Featured Projects
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/henrique-koiti-souza-hatano-3962251a5/
+### 📊 Financial Data Pipeline Automation
+**Tech:** Python, SQL, Airflow, TM1
 
-📧 Email:  
-henri.koiti2002@gmail.com  
+Developing enterprise-oriented solutions focused on financial acquisition workflows and automated data processing inside IBM environments.
+
+#### Highlights
+- Workflow automation using DAGs
+- Financial data orchestration
+- Integration between enterprise systems
+- Data validation and transformation pipelines
 
 ---
 
-⭐ *Still learning. Still improving. One step every day.*
+### 🧠 Planning Analytics & TM1 Solutions
+**Tech:** TM1, IBM Planning Analytics, SQL
+
+Working with enterprise cube structures and financial planning solutions to support business decision-making.
+
+#### Highlights
+- Cube development and maintenance
+- Financial planning workflows
+- Business performance reporting
+- Enterprise data integration
+
+#### Areas of Study
+- Backend development
+- Data pipelines
+- APIs
+- Machine learning foundations
+- Data visualization
+- Automation
+
+---
+
+## Career Vision
+
+My long-term goal is to become a **Machine Learning Engineer**, combining:
+
+- Enterprise software experience
+- Financial systems knowledge
+- Data engineering expertise
+- Artificial Intelligence
+
+I’m especially interested in building intelligent systems for:
+- Financial analysis
+- Predictive systems
+- Enterprise AI solutions
+- Data-driven decision making
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](YOUR_GITHUB_LINK)
