@@ -1,4 +1,4 @@
-# 👋 Henrique Hatano  
+#  Henrique Hatano  
 **`Planning Analytics Developer | Software Developer & Data Engineering`**
 
 I'm a developer currently working at IBM with a strong focus on **Planning Analytics, financial data flows, and enterprise solutions**.  
@@ -15,7 +15,7 @@ Currently, I work on projects related to **financial acquisition data pipelines*
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💼 Working with enterprise financial planning solutions at IBM
 - 🧠 Learning and applying concepts from:
@@ -30,7 +30,7 @@ Currently, I work on projects related to **financial acquisition data pipelines*
 
 ---
 
-## 🛠 Core Tech Stack
+##  Core Tech Stack
 
 ### Languages & Data
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -51,9 +51,9 @@ Currently, I work on projects related to **financial acquisition data pipelines*
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📊 Financial Data Pipeline Automation
+### Financial Data Pipeline Automation
 **Tech:** Python, SQL, Airflow, TM1
 
 Developing enterprise-oriented solutions focused on financial acquisition workflows and automated data processing inside IBM environments.
@@ -66,7 +66,7 @@ Developing enterprise-oriented solutions focused on financial acquisition workfl
 
 ---
 
-### 🧠 Planning Analytics & TM1 Solutions
+### Planning Analytics & TM1 Solutions
 **Tech:** TM1, IBM Planning Analytics, SQL
 
 Working with enterprise cube structures and financial planning solutions to support business decision-making.
